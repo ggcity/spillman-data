@@ -1,5 +1,5 @@
-CITY OF GARDEN GROVE - SPILLMAN GEOVALIDATION DATA PROCESSING SCRIPTS
-=====================================================================
+SPILLMAN GEOVALIDATION DATA PROCESSING
+================
 
 USAGE
 ----------------

@@ -1,0 +1,12 @@
+JoinID OBJECTID;
+CommonName COMMONNAME;
+AltName1 ALIAS1;
+AltName2 ALIAS2;
+AltName3 ALIAS3;
+AltName4 ALIAS4;
+AltName5 ALIAS5;
+AltName6 <ignored>;
+AltName7 <ignored>;
+AltName8 <ignored>;
+AltName9 <ignored>;
+AltName10 <ignored>

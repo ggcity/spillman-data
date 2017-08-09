@@ -55,10 +55,10 @@ def run():
     except:
         print('Overwrite of production failed. Trying alternate production directory.')
         if target_production == 'A':
-            fh = handler.FileHandler('B')
+            fh = handler.FileHandler('B', production_path, archive_path, working_path)
             
         if target_production == 'B':
-            fh = handler.FileHandler('A')
+            fh = handler.FileHandler('A', production_path, archive_path, working_path)
 
         try:
             fh.overwrite_production()

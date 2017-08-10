@@ -5,8 +5,8 @@ AltName2 ALIAS2;
 AltName3 ALIAS3;
 AltName4 ALIAS4;
 AltName5 ALIAS5;
-AltName6 <ignored>;
-AltName7 <ignored>;
-AltName8 <ignored>;
-AltName9 <ignored>;
+AltName6 ALIAS6;
+AltName7 ALIAS7;
+AltName8 ALIAS8;
+AltName9 ALIAS9;
 AltName10 <ignored>
